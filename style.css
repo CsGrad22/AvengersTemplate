@@ -1,0 +1,64 @@
+body {
+    background-image: url("https://www.pyramidinternational.com/assets/img/products/WDC99847");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#TitleName {
+    margin: 10%;
+    margin-bottom: 0%;
+    background-color: red;
+    text-align: center;
+    padding: 8px 8px 8px 8px;
+}
+
+#popularHeros {
+    color: white;
+    text-align: center;
+
+}
+
+#popularVillains {
+    color: white;
+    text-align: center;
+}
+
+.column {
+    margin-left: 10%;
+    margin-right: 10%;
+    float:left;
+     width: 80%; 
+    background: rgba(38, 36, 36, 0.5);
+}
+
+img {
+    display: flex;
+    height: 140px;
+    width: 110px;
+}
+
+
+#superHerosName1 {
+    color: black;
+    background-color: white;
+}
+
+figcaption {
+    background-color: white;
+    width: 110px;
+    text-align: center;
+
+}
+
+ figure {
+     float: left;
+   
+
+} 
+
+p {
+    margin: 0px;
+}
+ 
+
